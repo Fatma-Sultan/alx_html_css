@@ -18,3 +18,39 @@ aside {
 	flex: 1;
 	overflow-y: auto;
 }
+ul li {
+    color: white;
+    margin: right;
+    padding: 10px;
+    display: inline;
+    align-items: end;
+    
+ }
+ body {background-color: #29303d;
+ }
+ h1 { 
+    color: #ffffff;
+    flex-direction: row;
+    align-items: center;
+ }
+ span {
+    color: #ffffff;
+    align-items: center;
+    display: inline;
+    
+ }
+ button {
+    background-color: #c271ff;
+    color: #ffffff;
+    align-items: center;
+
+ }
+ #pp {
+     color: #c271ff;
+     align-items: center;
+
+ }
+ #white {
+    color: #ffffff;
+    align-items: center;
+ }
