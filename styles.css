@@ -54,3 +54,42 @@ ul li {
     color: #ffffff;
     align-items: center;
  }
+ blockquote {
+    color: #ffffff;
+    background-color: #c271ff;
+    align-items: center;
+    flex-direction: row;
+ }
+ #name {
+    color: #ffffff;
+    background-color: #c271ff;
+    align-items: center;
+    flex-direction: row;
+ }
+ #middle {
+    color: #ffffff;
+    background-color: #c271ff;
+    align-items: center;
+    flex-direction: row;
+ }
+#Most {
+    color: #000;
+    background-color: #ffffff;
+    align-items: center;
+}
+.black {
+    color: #000;
+    align-items: center;
+    flex-direction: row;
+    background-color: #ffffff;
+}
+h3 {
+    color: #ffffff;
+    align-items: center;
+    background-color: #000;
+}
+p {
+color: #ffffff;
+background-color: #000;
+align-items: center;
+}
